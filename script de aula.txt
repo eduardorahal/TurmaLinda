@@ -1,0 +1,8 @@
+backend rodando
+banco de dados existente
+recursos (sequelize, mysql2)
+conexão com o banco de dados
+definir os nossos modelos
+
+O que eu posso/preciso armazenar de informações 
+em um Banco de Dados
